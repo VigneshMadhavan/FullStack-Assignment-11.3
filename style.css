@@ -1,0 +1,12 @@
+/*style for body tag*/
+body {
+    background-color: lemonchiffon;
+}
+/*style for attribute name*/
+.name{
+    color: brown;
+}
+/*style for attribute value*/
+.value{
+    color: limegreen;
+}
